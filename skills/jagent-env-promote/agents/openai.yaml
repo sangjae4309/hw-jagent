@@ -1,0 +1,4 @@
+interface:
+  display_name: "JAgent: Env Promote"
+  short_description: "Generalize local lessons into the external environment"
+  default_prompt: "Use $jagent-env-promote for this task."

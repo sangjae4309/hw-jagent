@@ -1,0 +1,3 @@
+interface:
+  display_name: "JAgent: Memory Sync"
+  short_description: "Recall and reconcile project and block memory with history"

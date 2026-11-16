@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "replace-with-run-id",
+  "blocks": [],
+  "stage": "csynth",
+  "status": "incomplete",
+  "numerical_status": "unverified",
+  "summary": "Describe the design question and what the inspected evidence establishes.",
+  "supersedes": null,
+  "source": {
+    "revision": null,
+    "dirty": null,
+    "snapshot_sha256": null
+  },
+  "config": {
+    "tool": null,
+    "tool_version": null,
+    "device": null,
+    "board": null,
+    "variant": null,
+    "precision": null,
+    "clock_period_ns": null,
+    "workload": null,
+    "input_sha256": null,
+    "shape": null,
+    "parameters": {},
+    "seed": null,
+    "build_config_sha256": null
+  },
+  "metrics": {
+    "latency_cycles": {
+      "value": null,
+      "unit": "cycles",
+      "scope": "top-level kernel invocation",
+      "kind": "estimated",
+      "clock_domain": null,
+      "evidence_ids": []
+    }
+  },
+  "evidence": []
+}

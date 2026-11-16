@@ -1,0 +1,3 @@
+interface:
+  display_name: "JAgent: Block Scan"
+  short_description: "Discover block ownership and create agents with separate memory"

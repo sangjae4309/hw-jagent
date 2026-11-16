@@ -1,0 +1,3 @@
+interface:
+  display_name: "JAgent: Experiment"
+  short_description: "Preserve hardware evidence from explicitly authorized runs"

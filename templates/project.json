@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "project_name": null,
+  "protected_artifact_roots": [
+    "sim",
+    "build"
+  ],
+  "runners": {
+    "csim": null,
+    "csynth": null,
+    "rtl_sim": null,
+    "hw_emu": null,
+    "implementation": null,
+    "board": null
+  },
+  "notes": "Record inspected runner commands and current project constraints. No command is implicitly authorized."
+}

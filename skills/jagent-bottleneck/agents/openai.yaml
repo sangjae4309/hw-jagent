@@ -1,0 +1,3 @@
+interface:
+  display_name: "JAgent: Bottleneck"
+  short_description: "Reconcile RTL and waveform evidence with block-owner feedback"

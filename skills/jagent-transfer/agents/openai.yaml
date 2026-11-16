@@ -1,0 +1,4 @@
+interface:
+  display_name: "JAgent: Transfer"
+  short_description: "Replace old agent controls without backups"
+  default_prompt: "Use $jagent-transfer to review and replace this repository agent system without backups."

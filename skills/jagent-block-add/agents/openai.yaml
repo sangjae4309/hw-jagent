@@ -1,0 +1,4 @@
+interface:
+  display_name: "JAgent: Block Add"
+  short_description: "Add a single block owner and memory without a full scan"
+  default_prompt: "Use $jagent-block-add for this task."

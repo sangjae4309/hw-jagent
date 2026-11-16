@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "kind": "pitfall",
+  "title": "",
+  "rationale": "",
+  "applicability": "",
+  "reviewed_generalization": false,
+  "project_identifiers": [],
+  "evidence": [
+    {
+      "path": ".agent/memory/project/STATUS.md"
+    }
+  ],
+  "edits": [
+    {
+      "path": "general/code-pitfall/new-lesson.md",
+      "content": ""
+    }
+  ]
+}
